@@ -23,6 +23,6 @@ Find more about this competition [on Kaggle](https://www.kaggle.com/competitions
 Feel free to fork the code and use it yourself. If you found bugs or want to improve it, please [open an issue](https://github.com/thijsjmoens/titanic_kaggle_competition/issues) or [make a pull request](https://github.com/thijsjmoens/titanic_kaggle_competition/pulls)
 
 ## Contact information
-If you want to get in touch with me, please send me an email to [thijsmoens@email.com](mailto:thijsmoens@email.com) or connect on [LinkedIn](https://linkedin.com/in/thijsmoens)
+If you want to get in touch with me, please send me an email to [thijs.willem.moens@gmail.com](mailto:thijs.willem.moens@email.com) or connect on [LinkedIn](https://linkedin.com/in/thijswillemmoens)
 
 
