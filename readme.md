@@ -20,9 +20,9 @@ My goal was more to understand Machine Learning and scikit-learn than to actuall
 Find more about this competition [on Kaggle](https://www.kaggle.com/competitions/titanic)
 
 ## Improvements & Bugs
-Feel free to fork the code and use it yourself. If you found bugs or want to improve it, please [open an issue](https://github.com/thijsjmoens/titanic_kaggle_competition/issues) or [make a pull request](https://github.com/thijsjmoens/titanic_kaggle_competition/pulls)
+Feel free to fork the code and use it yourself. If you found bugs or want to improve it, please [open an issue](https://github.com/thimoens/titanic_kaggle_competition/issues) or [make a pull request](https://github.com/thimoens/titanic_kaggle_competition/pulls)
 
-## Contact information
-If you want to get in touch with me, please send me an email to [thijs.willem.moens@gmail.com](mailto:thijs.willem.moens@email.com) or connect on [LinkedIn](https://linkedin.com/in/thijswillemmoens)
+## Contact and support
+If you have any other questions or comments about this theme, [please connect with me on my website](https://thijs.website/). And if you would like to show your gratitude, you can [support me anyway you like](https://thijs.click/github-support)!
 
 
